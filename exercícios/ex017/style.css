@@ -1,0 +1,37 @@
+@charset 'UTF-8';
+
+body {
+    background-color: #ecfeff;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #44633F;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+p {
+    background-color: azure;
+}
+
+h1#main {
+    text-align: center;
+    color: #3F4B3B;
+    background-color:#80DED9;
+}
+
+.basic {
+    color: #80DED9;
+}
+
+.inter {
+    color: #579184;
+}
+
+.adv {
+    color: #4e8165;
+}
